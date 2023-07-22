@@ -88,9 +88,7 @@ background-color: #FFFFFF;
 main{
 
     width: 81.5rem;
-
     margin: 4rem;
-    
 
     background-color: #FFFFFF;
 
@@ -196,7 +194,7 @@ main{
     margin: 3.8rem 4.375rem;
     display: flex;
     flex-direction: column;
-    gap: 2.625rem;
+    gap: 1.5rem;
 }
 .comment_part{
     display: flex;
