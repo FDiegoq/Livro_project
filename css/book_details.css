@@ -93,6 +93,7 @@ main{
 
     display: flex;
     justify-content: space-around;
+    gap: 3.125rem;
 
     padding: 3rem 4.25rem;
 }
@@ -138,6 +139,8 @@ main{
     display: flex;
     flex-direction: column;
     gap: 1rem;
+
+    width: 58rem;
 }
 #bookinfos>h1{
     font-family: 'Lexend', sans-serif;
@@ -190,7 +193,7 @@ main{
     color: #808080;
 }
 .comments{
-    margin: 3.8rem 4.375rem;
+    margin-top: 3.8rem;
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
@@ -216,6 +219,7 @@ main{
     width: 45rem;
 }
 .comment_heart{
+    color: #D11A1A;
     display: flex;
     gap: 0.5rem;
 }
