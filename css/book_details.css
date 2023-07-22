@@ -34,8 +34,6 @@ background-color: #FFFFFF;
 }
 #searchbar{
     display: flex;
-
-
 }
 #searchbar>input{
     width: 59rem;
@@ -77,6 +75,7 @@ background-color: #FFFFFF;
     gap: 0.9rem;
 }
 #instagram{
+
 
     display: flex;
     flex-direction: column;
